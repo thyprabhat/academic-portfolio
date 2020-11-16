@@ -7,13 +7,13 @@
 - title: "Projects"
   href: "/projects/"
 
-- title: "Blog"
-  href: "/blog/"
+#- title: "Blog"
+#  href: "/blog/"
 
 - title: "CV"
   href: "/cv/"
 
-- title: "Miscellany"
+- title: "miscellaneous"
   href: "/miscellany/"
   subcategories:
     - subtitle: "Courses Undertaken"

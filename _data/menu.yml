@@ -7,8 +7,8 @@
 - title: "Projects"
   href: "/projects/"
 
-#- title: "Blog"
-#  href: "/blog/"
+- title: "Blog"
+  href: "/blog/"
 
 - title: "CV"
   href: "/cv/"
@@ -20,5 +20,5 @@
       subhref: "/miscellany/courses/"
     - subtitle: "Extracurriculars"
       subhref: "/miscellany/extracurricular/"
-    - subtitle: "Travel"
-      subhref: "/miscellany/travel/"
+ #   - subtitle: "Travel"
+ #     subhref: "/miscellany/travel/"

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/profile.jpg" caption="Picture taken at Sanata Clause village, Arctic Circle, Finland" width=300 align="right" %}
+{% include image.html url="/images/profile.jpg" caption="Picture taken for Solar Decathlon China 2018" width=300 align="right" %}
 
 Describe yourself here. Dummy text ahead.
 

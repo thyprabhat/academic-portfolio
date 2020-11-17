@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-Here are my carefully compiled views on some topics that I encountered so far. Hopefully, you will find them helpful! You can also search my posts by category <a href="{{ site.baseurl }}/categories/">here</a>.
+I don't blog much, however I like to write in order to think properly and take a decision. You are welcome to have a look. I have loosely categorised them <a href="{{ site.baseurl }}/categories/">here</a>.
 
 <ul class="listing">
 {% for post in site.posts %}

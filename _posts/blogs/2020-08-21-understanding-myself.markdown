@@ -2,7 +2,7 @@
 layout: post
 title:  "Understanding myself!"
 date:   2020-08-21 23:20:04 +0530
-categories: self
+categories: 
 ---
 What will be the best version of myself?
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "What did I learn at IITB"
 date:   2020-08-08 02:31:04 +0530
-categories: uncategorized
+categories: blog
 ---
 
 To be honest I never thought that I would end up doing engineering, let alone from IITB. Till now IITB has been kind to me and I have no complaints. I am in good position with decent enough qualification to stand up at least in the crowd, I may or may not live up to my resume, because I do not feel much confident. I do things to get appreciation and for dilettantism but never to satisfy the deep curiosity and zeal within myself. However, I feel this tinkling sense of curiosity and undertaking huge endeavours which is highly ambitious, but often than not the laziness wins.

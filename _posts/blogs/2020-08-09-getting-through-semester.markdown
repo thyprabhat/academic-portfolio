@@ -2,7 +2,7 @@
 layout: post
 title:  "How will I get through this semester?"
 date:   2020-08-09 03:20:04 +0530
-categories: uncategorized
+categories: blog
 ---
 
 

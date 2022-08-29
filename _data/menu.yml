@@ -7,8 +7,11 @@
 - title: "Projects"
   href: "/projects/"
 
-- title: "Blog"
-  href: "/blog/"
+- title: "Books"
+  href: "/books/"
+
+- title: "Categories"
+  href: "/categories/"
 
 - title: "CV"
   href: "/cv/"

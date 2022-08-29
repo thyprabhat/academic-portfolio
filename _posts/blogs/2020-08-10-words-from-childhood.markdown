@@ -2,7 +2,7 @@
 layout: post
 title:  "लड़कपन के शब्द:"
 date:   2020-08-10 01:54:04 +0530
-categories: poems
+categories: poems, blog
 ---
 
 आज मन उदास है।

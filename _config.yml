@@ -1,10 +1,9 @@
 # Site settings
 title: Prabhat Ranjan
 general_email: mailprabhatr@gmail.com
-academic_email: prabhatr@iitb.ac.in
+academic_email: prabhat.ranjan@aalto.fi
 
 description: > # this means to ignore newlines until "baseurl:"
-  Give a brief description of yourself, and maybe your passion/interests. It is displayed in search results.
 
 # baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
 

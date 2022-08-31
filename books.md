@@ -3,10 +3,10 @@ layout: page
 title: Books
 permalink: /books/
 ---
-askfdjhasklkfhklasjd;
+I loose categorisation of books can be found here. <a href="{{ site.baseurl }}/categories/">here</a>.
 
 <ul class="listing">
-{% for post in site.categories.books %}
+{% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
     {% assign year = y %}

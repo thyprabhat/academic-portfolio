@@ -11,3 +11,6 @@ permalink: /miscellany/
 </ul>
 
 You can add other topics by editing `miscellany.md` and `_data/menu.yml`.
+
+
+{% include instagram.html username="thyprabhatr" %}
